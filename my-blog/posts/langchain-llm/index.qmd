@@ -1,0 +1,11 @@
+---
+title: "LangChain for large language model application development"
+author: "Danillo Arigoni"
+date: "2024-01-13"
+categories: [langchain, LLM, deeplearnigai]
+---
+
+
+# Teste
+
+oioo

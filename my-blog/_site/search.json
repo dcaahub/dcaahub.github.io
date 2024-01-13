@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Danillo Arigoni",
+    "section": "",
+    "text": "I am currently an Artificial Intelligence Researcher at Alfaneo and a PhD student in Computer Science at the School of Computing (FACOM), the Federal University of Mato Grosso do Sul (UFMS), advised by Prof. Renato Porfirio Ishii.\n\n\nPh.D. in Computer Science  School of Computing (FACOM), Federal University of Mato Grosso do Sul (UFMS)  Advisors: Prof. Renato Porfirio Ishii  March 2023 - Present\nM.Sc. in Computer Science School of Computing (FACOM), Federal University of Mato Grosso do Sul (UFMS) Advisors: Prof. Ricardo Ribeiro dos Santos and Prof. Liana D. Duenha Garanhani March 2020 - July 2022\nBs. in Computer Engineering School of Computing (FACOM), Federal University of Mato Grosso do Sul (UFMS) 2013 - 2018\n\n\n\n\nAlfaneo | Artificial Intelligence Researcher | December 2022 - present\n\nNLP, outlier detection in sentence set, automatic sentence labeling (zero-shot, few-shot)\nOnline Anomalous Trajectory/Subtrajectory Detection.\nText generation for lawyers with LLM."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 13, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 13, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 10, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Danillo Arigoni",
+    "section": "",
+    "text": "Ph.D. in Computer Science  School of Computing (FACOM), Federal University of Mato Grosso do Sul (UFMS)  Advisors: Prof. Renato Porfirio Ishii  March 2023 - Present\nM.Sc. in Computer Science School of Computing (FACOM), Federal University of Mato Grosso do Sul (UFMS) Advisors: Prof. Ricardo Ribeiro dos Santos and Prof. Liana D. Duenha Garanhani March 2020 - July 2022\nBs. in Computer Engineering School of Computing (FACOM), Federal University of Mato Grosso do Sul (UFMS) 2013 - 2018"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Danillo Arigoni",
+    "section": "",
+    "text": "Alfaneo | Artificial Intelligence Researcher | December 2022 - present\n\nNLP, outlier detection in sentence set, automatic sentence labeling (zero-shot, few-shot)\nOnline Anomalous Trajectory/Subtrajectory Detection.\nText generation for lawyers with LLM."
+  },
+  {
+    "objectID": "posts/langchain-llm/index.html",
+    "href": "posts/langchain-llm/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "Teste\noioo"
+  },
+  {
+    "objectID": "posts/langchain-llm/index.html#teste",
+    "href": "posts/langchain-llm/index.html#teste",
+    "title": "Post With Code",
+    "section": "",
+    "text": "oioo"
+  }
+]
